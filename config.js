@@ -17,12 +17,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285162634171','6285748894171']
+global.owner = ['6285727894951','6285727894951']
 global.web = 'https://youtube.com/channel/UC2hMC3YSXSrDDhqOECXZkUg'
-global.bot = 'NahBotz-MD²'
-global.premium = ['6285748894171']
-global.packname = 'NakataArdnt'
-global.author = 'Nakata'
+global.bot = 'RenzBotz-MD²'
+global.premium = ['6285727894951']
+global.packname = 'RenzHost'
+global.author = 'RenzHost'
 global.sessionName = 'nahh'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
